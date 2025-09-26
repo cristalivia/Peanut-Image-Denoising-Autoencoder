@@ -14,6 +14,7 @@ When working with image data, noise is a common challenge that reduces quality a
 
 ## Results
 <img width="885" height="573" alt="image" src="https://github.com/user-attachments/assets/4422a7be-47d2-4d68-ae9b-980ce52b1c2d" />
+
 - The baseline autoencoder removed some noise but lost details, making the outputs blurry.
 - The modified autoencoder produced sharper edges and kept more image features.
   
