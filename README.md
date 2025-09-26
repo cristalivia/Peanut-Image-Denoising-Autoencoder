@@ -1,5 +1,4 @@
 # Peanut Image Denoising Autoencoder
-
 ## Project Overview
 When working with image data, noise is a common challenge that reduces quality and makes analysis harder. In this project, I built a **Convolutional Autoencoder** that learns how to remove noise from peanut images and make them clear again.
 
